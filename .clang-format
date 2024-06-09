@@ -1,0 +1,11 @@
+{
+  BasedOnStyle: Google,
+  ColumnLimit: 120,
+  AlignConsecutiveAssignemnts: true,
+  AlignConsecutiveDeclarations: true,
+  AlignEscapedNewlines: Left,
+  AlignOperands: true,
+  AlignTrailingComments: true,
+  DerivePointerAlignment: false,
+  PointerAlignment: Left
+}
